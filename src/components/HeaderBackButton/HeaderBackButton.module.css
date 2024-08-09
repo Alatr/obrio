@@ -1,0 +1,14 @@
+.headerButton {
+  background: none;
+  box-shadow: none;
+  border: none;
+}
+.headerButton svg {
+  fill: var(--svg-color);
+}
+
+.headerButton:hover {
+  background: none;
+  box-shadow: none;
+  border: none;
+}

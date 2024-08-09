@@ -1,0 +1,45 @@
+.typography {
+  margin: 0;
+  padding: 0;
+  line-height: 1.2em;
+}
+
+.h1 {
+  font-size: 2rem;
+  font-weight: bold;
+}
+
+.h2 {
+  font-size: 1.75rem;
+  font-weight: bold;
+}
+
+.h3 {
+  font-size: 1.5rem;
+  font-weight: bold;
+}
+
+.h4 {
+  font-size: 1.25rem;
+  font-weight: bold;
+}
+
+.h5 {
+  font-size: 1.1rem;
+  font-weight: bold;
+  line-height: 1.25em;
+}
+
+.h6 {
+  font-size: 0.875rem;
+  font-weight: bold;
+}
+
+.body1 {
+  font-size: 1rem;
+}
+
+.body2 {
+  font-size: 0.875rem;
+  line-height: 1.65em;
+}

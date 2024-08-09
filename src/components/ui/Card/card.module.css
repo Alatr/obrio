@@ -1,0 +1,29 @@
+.card {
+  border-radius: 8px;
+  overflow: hidden;
+}
+
+.cardHeader {
+  padding: 0 1rem;
+}
+
+.cardTitle {
+  font-size: 1.5rem;
+  font-weight: bold;
+  margin: 0 0 1rem 0;
+}
+
+.cardDescription {
+  text-align: center;
+  font-size: 0.9rem;
+  margin: 0 0.5rem 1rem 0.5rem;
+}
+
+.cardContent {
+  padding: 1rem;
+}
+
+.cardFooter {
+  padding: 1rem;
+  border-top: 1px solid #e5e7eb;
+}
