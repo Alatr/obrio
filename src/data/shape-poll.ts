@@ -558,21 +558,21 @@ export const POLL_SHAPE: PollShape = {
         id: "15q1a",
         title: "Optimistic! They are totally doable, with some guidance.",
         next: {
-          href: "/",
+          href: "9q",
         },
       },
       {
         id: "15q2a",
         title: "Cautious. I’ve struggled before, but I’m hopeful.",
         next: {
-          href: "/",
+          href: "9q",
         },
       },
       {
         id: "15q3a",
         title: "I’m feeling a little anxious, honestly.",
         next: {
-          href: "/",
+          href: "9q",
         },
       },
     ],
